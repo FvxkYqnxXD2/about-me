@@ -1,3 +1,11 @@
+.pagecontent {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #00FF97;
+    border-radius: 20px;
+    background: #001f0a;
+}
+
 .fcah1 {
     text-align: center;
     font-family: monospace;
