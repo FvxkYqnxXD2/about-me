@@ -14,7 +14,7 @@
     font-family: monospace;
     color: #33ffaa;
     background: black;
-    border: 2px solid white;
+    border: 2px solid black;
     border-radius: 20px;
     font-size: 15px;
     box-sizing: border-box;
@@ -23,6 +23,24 @@
 }
 
 .skillsbox {
+    display: block;
+    width: 48%;
+    max-width: 700px;
+    margin: 0 auto 20px;
+    padding: 12px 20px;
+    text-align: center;
+    font-family: monospace;
+    color: #33ffaa;
+    background: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 15px;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    hyphens: auto;
+}
+
+.mypersonalbox {
     display: block;
     width: 48%;
     max-width: 700px;
