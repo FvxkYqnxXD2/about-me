@@ -1,9 +1,15 @@
 .pagecontent {
-    margin: 20px;
+    position: fixed;
+    inset: 0;
+    margin: 0;
     padding: 20px;
-    border: 2px solid #00FF97;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    z-index: -1;
+    border: 2px solid black;
     border-radius: 20px;
-    background: #001f0a;
+    background: black;
 }
 
 .fcah1 {
@@ -29,9 +35,9 @@
     font-family: monospace;
     color: #33ffaa;
     background: #00FF97;  
-    border: 2px solid #00FF97;
+    border: 2px solid white;
     border-radius: 20px;
     font-size: 15px;
     box-sizing: border-box;
-    float: none;         
+    float: left;         
 }
