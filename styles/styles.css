@@ -36,11 +36,10 @@
 }
 
 .aboutmebox {
-    display: inline-block;
-    vertical-align: top;
-    width: auto;
+    float: left;
+    width: 48%;
     max-width: 700px;
-    margin: 0 20px 20px 0;
+    margin: 0 2% 20px 0;
     padding: 12px 20px;
     text-align: left;
     font-family: monospace;
@@ -55,13 +54,12 @@
 }
 
 .skillsbox {
-    display: inline-block;
-    vertical-align: top;
-    width: auto;
+    display: block;
+    width: 48%;
     max-width: 700px;
-    margin: 0 0 20px 0;
+    margin: 0 auto 20px;
     padding: 12px 20px;
-    text-align: left;
+    text-align: center;
     font-family: monospace;
     color: #33ffaa;
     background: white;
