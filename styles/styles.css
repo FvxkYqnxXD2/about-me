@@ -53,3 +53,22 @@
     word-wrap: break-word;
     hyphens: auto;
 }
+
+.skillsbox {
+    display: inline-block;
+    vertical-align: top;
+    width: auto;
+    max-width: 700px;
+    margin: 0 0 20px 0;
+    padding: 12px 20px;
+    text-align: left;
+    font-family: monospace;
+    color: #33ffaa;
+    background: white;
+    border: 2px solid white;
+    border-radius: 20px;
+    font-size: 15px;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    hyphens: auto;
+}
