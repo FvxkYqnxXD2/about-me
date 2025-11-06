@@ -8,19 +8,19 @@
     float: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    text-size-adjust: 70px;
+    size: 50px;
 }
 
 .skillsbox {
     float: right;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    text-size-adjust: 70px;
+    size: 50px;
 }
 
 .mypersonalbox {
     float: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    text-size-adjust: 70px;
+    size: 50px;
 }
