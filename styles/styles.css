@@ -28,6 +28,7 @@
 }
 
 .mypersonalbox {
+    display: flex;
     float: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
