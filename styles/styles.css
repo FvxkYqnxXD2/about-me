@@ -56,3 +56,10 @@
     text-decoration: none;
     color: black;
 }
+
+.barcaimg {
+    display: block;
+    margin: 16px auto;
+    width: 150px;
+    border-radius: 16px;
+}
