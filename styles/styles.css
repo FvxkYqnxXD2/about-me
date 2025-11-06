@@ -23,15 +23,40 @@
 }
 
 .soccerbutt {
-    background-color: #33ff51;
+    clear: both;
+    display: block;
+    width: fit-content;
+    width: -moz-fit-content;
+    width: -webkit-fit-content;
+    margin: 32px auto;
+    padding: 12px 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    color: #062e16;
+    background: #33ff51;
     border: none;
-    color: black;
-    padding: 10px 20px;
+    border-radius: 28px;
+    box-shadow: 0 8px 20px black;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
     cursor: pointer;
-    border-radius: 12px;
+    transition: transform .18s ease, box-shadow .18s ease, filter .18s ease;
+}
+
+.soccerbutt:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 28px #043317;
+    filter: brightness(.98);
+}
+
+.soccerbutt:active {
+    transform: translateY(-1px) scale(.995);
+    box-shadow: 0 6px 16px black;
+}
+
+.soccerbutt:focus-visible {
+    outline: 3px solid gray;
+    outline-offset: 4px;
 }
