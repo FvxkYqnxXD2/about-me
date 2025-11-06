@@ -41,6 +41,7 @@
     text-align: center;
     text-decoration: none;
     cursor: pointer;
+    text-shadow: none;
 }
 
 .soccerbutt:hover {
