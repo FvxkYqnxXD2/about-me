@@ -19,7 +19,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     width: 45%;
-    height: 45%;
+    height: 20px;
     background-color: #062e16;
 }
 
@@ -28,7 +28,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     width: 45%;
-    height: 45%;
+    height: 20px;
     margin-top: 16px;
     background-color: #062e16;
 }
