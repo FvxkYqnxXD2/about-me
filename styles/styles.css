@@ -57,3 +57,8 @@
     outline: 3px solid gray;
     outline-offset: 4px;
 }
+
+.buttonins {
+    text-decoration: none;
+    color: black;
+}
