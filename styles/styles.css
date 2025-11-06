@@ -38,22 +38,18 @@
     background: #33ff51;
     border: none;
     border-radius: 28px;
-    box-shadow: 0 8px 20px black;
     text-align: center;
     text-decoration: none;
     cursor: pointer;
-    transition: transform .18s ease, box-shadow .18s ease, filter .18s ease;
 }
 
 .soccerbutt:hover {
     transform: translateY(-3px);
-    box-shadow: 0 12px 28px #043317;
     filter: brightness(.98);
 }
 
 .soccerbutt:active {
     transform: translateY(-1px) scale(.995);
-    box-shadow: 0 6px 16px black;
 }
 
 .soccerbutt:focus-visible {
