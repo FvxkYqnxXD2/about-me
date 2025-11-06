@@ -62,6 +62,7 @@
     margin: 16px auto;
     width: 300px;
     border-radius: 16px;
+    float: right;
 }
 
 .soccerimg {
@@ -69,4 +70,5 @@
     margin: 16px auto;
     width: 300px;
     border-radius: 16px;
+    float: center;
 }
