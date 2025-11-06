@@ -32,7 +32,6 @@
     width: 45%;
     height: auto;
     background-color: #062e16;
-    border-radius: 25px;
 }
 
 .soccerbutt {
@@ -58,11 +57,6 @@
 
 .soccerbutt:active {
     transform: translateY(-1px) scale(.995);
-}
-
-.soccerbutt:focus-visible {
-    outline: 3px solid gray;
-    outline-offset: 4px;
 }
 
 .buttonins {
