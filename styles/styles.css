@@ -84,3 +84,24 @@
     border-radius: 16px;
     float: left;
 }
+
+.soccerdiv {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: #062e16;
+    border-radius: 25px;
+    margin-top: 32px;
+    padding-bottom: 16px;
+}
+
+.soccerdiv2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: #062e16;
+    border-radius: 25px;
+    margin-top: 32px;
+    padding-bottom: 16px;
+    float: right;
+}
