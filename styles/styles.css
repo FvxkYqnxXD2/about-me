@@ -70,6 +70,14 @@
     border-radius: 16px;
 }
 
+.messiimg,
+.soccerimg2 {
+    display: block;
+    margin: 16px auto;
+    width: 300px;
+    border-radius: 16px;
+}
+
 .soccerdiv,
 .soccerdiv2 {
     box-sizing: border-box;
